@@ -1,0 +1,14 @@
+.vs/
+Debug/
+Release/
+*.obj
+*.exe
+*.user
+*.suo
+*.pdb
+*.log
+*.aps
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
